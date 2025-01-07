@@ -1,0 +1,56 @@
+Company	Location	SWE	QR	QT	Status	Notes
+Akuna Capital	Chicago	✅	✅	✅		
+Ansatz Capital	NYC					Very Small, Citadel Spinoff.
+Aquatic	Chicago	✅	✅			Very Small, Citadel Spinoff. Matt Godbolt (Yes, that godbolt), works here.
+AQR	Greenwich		✔️	✔️		
+BAM		✔️	✔️			
+Arrowstreet Capital	Boston	✅	✅			Fully Systematic.
+Belvedere Trading	Chicago	✅	✔️	✅		
+Blackedge Capital	Chicago	✔️		✔️		
+Bridgewater	Westport	✔️				Day Ralio's firm. Very unique culture and interviews. Very School Selective.
+Campbell and Company	Baltimore, MD					This small 60 employee multi-strat quant firm has an extremely collaborative culture.
+Citadel	Chicago, NYC	✅	✅	✅		The hedge fund side of Ken Griffin's Citadel. The quants are mostly on the Global Quantitative Strategies team (GQS). Citadel tends to be fairly school-selective.
+Citadel Securities	Chicago, NYC	✅	✅	✅		The market making arm of Citadel. The general perception is that the culture tends to be better at Citadel Securities vs Citadel LLC.
+Chicago Trading Company	Chicago	✅		✅		Very trader led shop. Shares an office with Group One Trading.
+Cubist	New York City	✅	✅			The quant arm of Steve Cohen's Point72 hedge fund. Pretty small and school selective.
+DE Shaw	NYC	✅		✔️		Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar. Generally considered a top destination for QRs, more so than other roles.
+DRW	Chicago	✅	✅	✅		Perception is that DRWers tend to have a good WLB but teams are usually siloed. Known for their PM type culture and relatively fluid roles.
+Engineer's Gate	New York					
+Five Rings	NYC	✅	✅	✅	Winter also available.	Extremely school-selective - generally MIT only.
+Flow Traders	NYC			✔️		Primary focus is on ETFs. Pay tends be lower than IMC and Optiver. One of the only publicly traded quant funds.
+G-Research	London					Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.
+Geneva Trading	Chicago	✔️		✔️		
+GSA Capital	NYC					
+HAP Capital	NYC	✔️	✔️			Another options market maker. Less known than (IMC, Optiver, ...) but well known in the OMM circle.
+Headlands Tech	Chicago					Founded by ex-Citadel people. Max Dama works here. Similarly to Ansatz, Aquatic, and Radix, a small firm that is willing to pay more than most competitors. Known to have a large focus on C++, both among QRs and SWEs.
+Hudson River Trading	NYC	✅	✅			The Algo Dev role at HRT is essentially Quantitative Research. HRT's culture seems to be pretty similar to JS and pay is similar too. HRT has a bigger focus on ML with their dedicated HRT AI Labs. Known for recruiting UG QRs, and for very collegial culture.
+IMC Trading	Chicago	✅	✅	✅		Known for a pretty chill, tech-like culture. They're a more systematic OMM.
+Jane Street	NYC	✅	✅	✅		Founded by ex-SIG people. Tends to be more school-agnostic than other firms. General perception of JS is that it has a very comfortable and nerdy culture. Specializes in ETF market making, and uses OCAML as their primary programming language.
+Jump Trading	Chicago	✅	✅	✅		Fairly school-selective recruiting. Very engineering-focused with siloed teams. Known for being extremely fast at execution.
+Mako Trading	London					
+Marshall Wace	NYC	✅				
+Maven Securities	London					Founded by ex-optiver traders.
+Millenium	NYC	✅	✅			
+Old Mission	Chicago, NYC					Takes 4 total for a winter internship. Very trader led. Many good traders come here to carve their own path.
+Optiver	Chicago, Austin	✅	✅	✅		Tends to have the highest pay out of the three big dutch firms (IMC, Optiver, Flow Traders) due to their marble bonus system.
+PDT Partners	NYC	✅				Founded by Pete Muller, very collaborative and secretive culture similar to Rentech. Recruits college students for mainly SWE but some SWE/QR combo roles (dependent on team). Exclusively recruits PhD students for full-time QR roles.
+Peak6	Chicago	✅		✅		The internships are geared towards women. The new grad roles are open to everyone.
+QuantLab	Houston	✔️				
+Radix Trading	Chicago	✅		✔️		Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. Extremely secretive.
+Renaissance	Setauket- East Setauket					The legendary OG quant fund. They interview some normal people for SWE, but other roles tend to be extremely difficult.
+Schonfeld	Miami					
+Seven Eight	NYC					
+SIG	Bala Cynwyd	✅	✅	✅		Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career.
+Squarepoint	NYC		✅			
+TGS	Irvine					Perception ranges anywhere from JS to RenTech tier. Extremely secretive - not much else is known.
+Tower Research	NYC			✅		Super clustered into teams - traders tend to be all in one trader-researchers, while devs focus on the platform and general technology.
+TransMarketGroup	Chicago, Puerto Rico			✅		Extremely trader led. Also take interns in Puerto Rico.
+Tudor Investment Group	NYC, Oakland, Singapore	✔️	✅	✔️		Focused on macro trading and discretionary strategies. Known for its founder, Paul Tudor Jones, and its emphasis on research-driven approaches. Mix of quant and discretionary trading styles. Culture can vary by team.
+Two Sigma	NYC	✔️	✅			Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs.
+Valkyrie Trading	Chicago		✔️			
+Vatic Labs	NYC		✔️			Founded by ex-Jump people. Focus on ML.
+Virtu Financial	NYC, Austin	✅	✅	✅		Known for being very HFT MM heavy.
+Voleon	Berkeley			✔️		Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.
+Wolverine	Chicago	✔️				Generally a floor trader style firm.
+WorldQuant	NYC					
+XTX Markets	London					Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.
